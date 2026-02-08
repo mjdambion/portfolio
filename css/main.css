@@ -5316,3 +5316,7 @@ a.credit {
   display: block; /* or whatever default state you want */
 }
 
+.quote-author {
+  text-align: right;
+  font-style: italic;
+}
